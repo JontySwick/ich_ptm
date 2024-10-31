@@ -1,0 +1,1010 @@
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        468M     0  468M   0% /dev
+tmpfs           477M     0  477M   0% /dev/shm
+#!/bin/bash
+
+set -e
+
+export USER="Kirill"
+
+pwd
+   18  ls -l
+   19  chmod u-x Mutaf/
+   20  ls -l
+   21  chmod u+x Mutaf/
+   22  ls -l
+   23  cd Mutaf/
+   24  cd ..
+   25  ls -l
+   26  rm mutaf.txt 
+   27  ls -l
+   28  exit
+   29  cdcdсвсвcddcdcdcddddвсвсвсвв
+   30  cd /var/spool/
+   31  /23_08
+   32  cd /23_08
+   33  ls
+   34  cd /23_08
+   35  pwd
+   36  cd /23_08
+   37  cd .23_08
+   38  mkdir -p /23_08/Oleksandr
+   39  sudo mkdir -p /23_08/Oleksandr
+   40  cd /23_08/Oleksandr
+   41  touch Oleksandr.txt
+   42  sudo touch Oleksandr.txt
+   43  cd
+   44  cd /opt/290724
+   45  cd 
+   46  cd /opt/290724-ptm
+   47  ls -l
+   48  chmod u-x OOlepir
+   49  ls -l
+   50  cd OOlepir
+   51  sudo cd OOlepir
+   52  chmod u+x OOlepir
+   53  ls -l
+   54  pwd
+   55  cd OOlepir
+   56  pwd
+   57  cd /var/spool
+   58  ls
+   59  ls -al
+   60  cat .ssh
+   61  mkdir -p /var/spool/23_08/ELENA
+   62  sudo mkdir -p /var/spool/23_08/ELENA
+   63  touch ele.txt /var/spool/23_08/ELENA
+   64  sudo touch ele.txt /var/spool/23_08/ELENA
+   65  ls -al /tmp | head -n 3 > /var/spool/23_08/ELENA
+   66  ls -al /tmp | head -n 3 > /var/spool/23_08/ELENA/ele.txt
+   67  sudo ls -al /tmp | head -n 3 >> /var/spool/23_08/ELENA/ele.txt
+   68  cd /opt/290724-ptm/
+   69  ls -l
+   70  > ELENA/ele.txt
+   71  chmod ugo-r ivan.txt
+   72  chmod ugo-rwx ivan.txt
+   73  chmod ugo+rwx /var/spool/23_08/
+   74  ls var
+   75  ls /var/
+   76  mkdir -p /var/spool/23_08/Vladyslav_Habelko
+   77  sudo mkdir -p /var/spool/23_08/Vladyslav_Habelko
+   78  touch /var/spool/23_08/Vladyslav_Habelko/vladyslav_habelko.txt
+   79  sudo touch /var/spool/23_08/Vladyslav_Habelko/vladyslav_habelko.txt
+   80  ls /var/spool/23_08/Vladyslav_Habelko/
+   81  ls -al /var/spool/tmp | head -3 > /var/spool/23_08/Vladyslav_Habelko/vladyslav_habelko.txt 
+   82  ls -al /var/spool/tmp | head -3 >> /var/spool/23_08/Vladyslav_Habelko/vladyslav_habelko.txt 
+   83  ls /tmp
+   84  ls -al /tmp | head -3 >> /var/spool/23_08/Vladyslav_Habelko/vladyslav_habelko.txt 
+   85  sudo ls -al /tmp | head -3 >> /var/spool/23_08/Vladyslav_Habelko/vladyslav_habelko.txt 
+   86  cat /var/spool/23_08/Vladyslav_Habelko/vladyslav_habelko.txt 
+   87  sudo ls -al /tmp | head -3 > /var/spool/23_08/Vladyslav_Habelko/vladyslav_habelko.txt 
+   88  Sudo ls -al /tmp | head -3 > /var/spool/23_08/Vladyslav_Habelko/vladyslav_habelko.txt 
+   89  sudo ls -al /tmp | head -3 > /var/spool/23_08/Vladyslav_Habelko/vladyslav_habelko.txt 
+   90  ls -al /tmp | head -3 > /var/spool/23_08/Vladyslav_Habelko/vladyslav_habelko.txt 
+   91  sudo ls -al /tmp | head -3 > /var/spool/23_08/Vladyslav_Habelko/vladyslav_habelko.txt 
+   92  cd /opt/
+   93  mkdir -p /var/spool/23_08/Roman && touch roman.txt
+   94  sodo mkdir -p /var/spool/23_08/Roman && touch roman.txt
+   95  sodo mkdir -p /var/spool/23_08/Roman
+   96  ls -a /var/spool/
+   97  tree /var/
+   98  cd /var/spool/
+   99  ls
+  100  sudo mkdir -p /var/spool/23_08/Roman/
+  101  sudo touch /var/spool/23_08/Roman/Roman.txt
+  102  sudo cat /tmp/ | head -3
+  103  ls -l
+  104  cd /opt/
+  105  ls
+  106  cat /opt/290724-ptm/AndreyLapko/process_management 
+  107  top | grep root
+  108  top | grep root | wc -l
+  109  top | grep root
+  110  [3~ root | wc -l
+  111  top | grep root | wc -l
+  112  cat /opt/290724-ptm/AndreyLapko/process_management 
+  113  ps 
+  114  ps  -ef
+  115  ps -ef | grep root | wc -l
+  116  ps -ef | grep root | wc -l >> /opt/290724-ptm/AndreyLapko/process_management 
+  117  cat /opt/290724-ptm/AndreyLapko/process_management 
+  118  env
+  119  export ANDREY_VARIABLE=290724-ptm
+  120  env | grep ANDREY
+  121  env | grep ANDREY >> /opt/290724-ptm/AndreyLapko/process_management 
+  122  cat /opt/290724-ptm/AndreyLapko/process_management 
+  123  ps
+  124  ps -ef
+  125  ps -ef /usr/sbin/sshd -D
+  126  ps -ef /usr/sbin/sshd
+  127  ps /usr/sbin/sshd
+  128  cd /usr/sbin/sshd
+  129  ps -ef
+  130  ps /usr/sbin/sshd -D
+  131  ps /usr/sbin/sshd-D
+  132  cat /opt/290724-ptm/AndreyLapko/process_management 
+  133  mc
+  134  pwd
+  135  ls
+  136  export PANCHENKO_SERHII_VARIABLEC="100624-wdm"
+  137  printenv
+  138  mkdir -p /opt/100624-wdm/Panchenko
+  139  ls
+  140  touch /opt/100624-wdm/Panchenko/.process_management
+  141  cd Panchenko/
+  142  ls
+  143  ls -la
+  144  date >> /opt/100624-wdm/Panchenko/.process_management
+  145  cat .process_management 
+  146  echo "Welcome to Amazon server" >> /opt/100624-wdm/Panchenko/.process_management
+  147  cat .process_management 
+  148  free -h
+  149  free -h | grep Mem
+  150  free -h | grep Mem | awk '{print "Total Memory: "$2}'free -h | grep Mem | awk '{print "Total Memory: "$2}'free -h | grep Mem | awk '{print "Total Memory: "$2}'
+  151  free -h | grep Mem | awk '{print "Total Memory: "$2}'
+  152  free -h | grep Mem | awk '{print "Total Memory: "$2}' >> /opt/100624-wdm/Panchenko/.process_management
+  153  cat .process_management 
+  154  ps -U root | wc -l >> /opt/100624-wdm/Panchenko/.process_management
+  155  cat .process_management 
+  156  env | grep PANCHENKO_SERHII_VARIABLE
+  157  env | grep PANCHENKO_SERHII_VARIABLE >> /opt/100624-wdm/Panchenko/.process_management
+  158  cat .process_management 
+  159  ps -ef | grep "/usr/sbin/sshd -D" | grep -v grep | awk '{print "PID " $2 " PPID " $3}'
+  160  ps -ef | grep "/usr/sbin/sshd -D" | grep -v grep | awk '{print "PID " $2 " PPID " $3}' >> /opt/100624-wdm/Panchenko/.process_management
+  161  cat .process_management 
+  162  nano /tmp/file.txt
+  163  df -h | head -n 3 >> /tmp/file.txt
+  164  cat /tmp/file.txt
+  165  chmod 770 /tmp/file.txt
+  166  pwd
+  167  nano myfirstbashscript.sh
+  168  chmod +x myfirstbashscript.sh
+  169  ls
+  170  nano myfirstbashscript.sh
+  171  ./myfirstbashscript.sh 
+  172  cat ~/myfirstbashscript.sh >> /tmp/file.txt
+  173  history >> /tmp/file.txt
+  174  export_file /tmp/file.txt
+  175  cat /tmp/file.txt
+  176  nano /tmp/file.txt
+  177  nano /tmp/file_panchenko.txt
+  178  df -h | head -n 3 >> /tmp/file_panchenko.txt
+  179  chmod 770 /tmp/file_panchenko.txt
+  180  cat ~/myfirstbashscript.sh >> /tmp/file_panchenko.txt
+  181  cat myfirstbashscript.sh >> /tmp/file_panchenko.txt
+  182  cat /tmp/file_panchenko.txt
+  183  history >> /tmp/file_panchenko.txt
+  184  cat /tmp/file_panchenko.txt
+  185  export_file /tmp/file.txt
+  186  scp ec2-user@linux.itcareerhub.de:/tmp/file.txt ~/
+  187  mail -s "Тема письма" panchenko.mobi@gmail.com < /tmp/file_panchenko.txt
+  188  sudo apt-get update
+  189  sudo apt-get install mailutils
+  190  cat /tmp/file_panchenko.txt
+  191  nano /tmp/file_panchenko.txt
+  192  nano /tmp/file.txt
+  193  nano /tmp/file_panchenko2.txt
+  194  df -h | head -n 3 >> /tmp/file_panchenko2.txt
+  195  chmod 770 /tmp/file_panchenko2.txt
+  196  cat myfirstbashscript.sh >> /tmp/file_panchenko2.txt
+  197  cat /tmp/file_panchenko2.txt
+  198  history >> /tmp/file_panchenko2.txt
+  199  export_file /tmp/file_panchenko2.txt
+  200  nano /tmp/file_panchenko2.txt
+  201  cat /tmp/file_panchenko2.txt
+  202  exit
+  203  ./task_Panchenko.sh
+  204  nano /tmp/file.txt
+  205  df -h | head -n 3 >> file.txt
+  206  ls /tmp
+  207  mv /tmp/file.txt /tmp/file_elena.txt
+  208  ls -l /tmp
+  209  chmod 730 /tmp/file_elena.txt 
+  210  ls -l /tmp
+  211  nano ~/myfirstbashscript_elena.sh
+  212  VI ~/myfirstbashscript_elena.sh
+  213  exit
+  214  cat /tmp/file_elena.txt
+  215  rm /tmp/file_elena.txt
+  216  clear
+  217  vi /tmp/file_elena.txt
+  218  df -h | head n -3 >> /tmp/file_elena.txt
+  219  df -h | head -n 3 >> /tmp/file_elena.txt
+  220  cat /tmp/file_elena.txt
+  221  chmod 730 /tmp/file_elena.txt
+  222  vi ~/elenasbashscript.sh
+  223  nano ~/elenasbashscript.sh
+  224  chmod +x ~/elenasbashscript.sh 
+  225  cat ~/elenasbashscript.sh >> /tmp/file_elena.txt
+  226  history >> /tmp/file_elena.txt 
+  227  nano ~/elenasbashscript.sh
+  228  ./elenasbashscript.sh 
+  229  nano ~/elenasbashscript.sh
+  230  ./elenasbashscript.sh 
+  231  cat ~/elenasbashscript.sh >> /tmp/file_elena.txt
+  232  history >> /tmp/file_elena.txt 
+  233  cat /tmp/file_elena.txt 
+  234  history | tail -n 25 > /tmp/file_elena.txt
+  235  cat /tmp/file_elena.txt 
+  236  export_file /tmp/file_elena.txt
+  237  exit
+  238  cd /
+  239  cd opt
+  240  ls
+  241  cd 100624-wdm
+  242  ls
+  243  cd Panchenko/
+  244  ls
+  245  nano task_Panchenko.sh
+  246  ls
+  247  chmod +x task_Panchenko.sh 
+  248  ls
+  249  ./task_Panchenko.sh 
+  250  nano task_Panchenko.sh
+  251  ./task_Panchenko.sh 
+  252  nano task_Panchenko.sh
+  253  ./task_Panchenko.sh 
+  254  nano task_Panchenko.sh
+  255  ./task_Panchenko.sh 
+  256  nano task_Panchenko.sh
+  257  ./task_Panchenko.sh 
+  258  nano task_Panchenko.sh
+  259  ./task_Panchenko.sh 
+  260  ls
+  261  mc
+  262  nano task_Panchenko.sh
+  263  crontab -e
+  264  ls
+  265  crontab -e
+  266  nano task_Panchenko.sh
+  267  pwd
+  268  crontab -e
+  269  ls
+  270  cd /
+  271  /opt/100624-wdm/Panchenko/task_Panchenko.sh
+  272  cd /opt/100624-wdm/Panchenko/
+  273  ls
+  274  nano task_Panchenko.sh
+  275  cd /
+  276  /opt/100624-wdm/Panchenko/task_Panchenko.sh
+  277  cd /opt/100624-wdm/Panchenko/
+  278  ls
+  279  mc
+  280  crontab -e
+  281  crontab -l
+  282  ls
+  283  tar -czvf Panchenko_files.tar.gz *_$(date +%d.%m.%y)
+  284  tar -czvf Panchenko_files.tar.gz 25-08-24*
+  285  ls
+  286  mc
+  287  history > history.txt
+  288  tar -rvf Panchenko_files.tar.gz history.txt
+  289  tar -cvf Panchenko_files-1.tar 25-08-24*
+  290  ls
+  291  tar -rvf Panchenko_files-1.tar.gz history.txt
+  292  mc
+  293  tar -rvf Panchenko_files-1.tar history.txt
+  294  mc
+  295  export EDITOR=nano
+  296  crontab -e
+  297  cat task_Panchenko.sh 
+  298  mc
+  299  cd /opt/100624-wdm
+  300  ls
+  301  ll
+  302  cd rami/
+  303  ls
+  304  ll
+  305  cd ~
+  306  ls
+  307  cd Rami/
+  308  ls
+  309  cat permission_checker.sh 
+  310  ls
+  311  cd opt
+  312  ls
+  313  cd \
+  314  cd /
+  315  ls
+  316  cd opt
+  317  ls
+  318  cd 100624-wdm
+  319  ls
+  320  cd Panchenko
+  321  ls
+  322  nano permission_checker.sh
+  323  ls
+  324  chmod +x permission_checker.sh
+  325  ls
+  326  ./permission_checker.sh 
+  327  nano permission_checker.sh
+  328  pwd
+  329  cd ..
+  330  ls
+  331  >1.sh
+  332  ls
+  333  >2.sh
+  334  >3.sh
+  335  ls
+  336  cd Panchenko/
+  337  ./permission_checker.sh 
+  338  cd ..
+  339  ls
+  340  cd Panchenko/
+  341  nano permission_checker.sh
+  342  ./permission_checker.sh 
+  343  cd ..
+  344  ls
+  345  >4.sh
+  346  ls
+  347  cd Panchenko/
+  348  ./permission_checker.sh 
+  349  cd ..
+  350  ls
+  351  cd Panchenko/
+  352  ls
+  353  nano permission_checker.sh
+  354  cd ..
+  355  >5.sh
+  356  cd P
+  357  cd Panchenko/
+  358  ./permission_checker.sh 
+  359  nano permission_checker.sh
+  360  ./permission_checker.sh 
+  361  nano permission_checker.sh
+  362  ./permission_checker.sh 
+  363  cd ..
+  364  ls
+  365  cat permission_checker.sh 
+  366  cat Panchenko/permission_checker.sh 
+  367  export $ALEXEY_VARIABLE=140624-wde
+  368  export ALEXEY_VARIABLE=140624-wde
+  369  echo $ALEXEY_VARIABLE=140624-wde
+  370  echo $ALEXEY_VARIABLE
+  371  date >> /opt/140624-wde/ALopin/.process_management
+  372  cat /opt/140624-wde/ALopin/.process_management 
+  373  echo "Welcome to Amazon server" >> /opt/140624-wde/ALopin/.process_management 
+  374  cd /opt/140624-wde/ALopin
+  375  free -h >> .process_management 
+  376  ps -ef | grep root | grep -v grep >> .process_management 
+  377  env
+  378  env | grep ALEXEY_VARIABLE 
+  379  env | grep ALEXEY_VARIABLE >> .process_management 
+  380  cat .process_management 
+  381  ps -ef | grep "ssh -D"
+  382  ps -ef | grep "ssh -D" | awk '{print $2 $3}'
+  383  ps -ef | grep "ssh -D" | awk '{print $2 $3}' -F
+  384  ps -ef | grep "ssh -D" | awk -F '{print $2 $3}'
+  385  ps -ef | grep "ssh -D" | awk -F: '{print $2 $3}'
+  386  ps -ef | grep "ssh -D" | awk '{print $2" "$3}'
+  387  ps -ef | grep "ssh -D" | awk '{print $2" "$3}' >> .process_management 
+  388  exit 
+  389  cat /opt/140624-wde/ALopin/.process_management 
+  390  history | tail -n10 
+  391  history | tail -n20 
+  392  history | tail -n20 >> HW6.txt
+  393  exit
+  394  cd /opt/140624-wde/ALopin
+  395  ls -la
+  396  history | tail -n25 >> HW6.txt
+  397  ls -l
+  398  cat HW6.txt 
+  399  exit
+  400  ls
+  401  cd
+  402  ls
+  403  cd -a
+  404  ls -a
+  405  exit
+  406  ls -a
+  407  export Vlad_Variable="ptm-290724"
+  408  echo Vlad_Variable
+  409  echo $Vlad_Variable
+  410  ls /opt/290724/
+  411  ls /opt/290724-ptm/
+  412  touch /opt/290724-ptm/Habelko_Vladyslav/.process_mangement
+  413  ls /opt/290724-ptm/Habelko_Vladyslav/
+  414  ls -a /opt/290724-ptm/Habelko_Vladyslav/
+  415  cd /opt/290724-ptm/Habelko_Vladyslav/
+  416  date +%D > .
+  417  date +%D > .process_mangement 
+  418  echo Welcome to Amazon server >> .process_mangement 
+  419  cat .process_mangement 
+  420  cd..
+  421  cd ..
+  422  pwd
+  423  free
+  424  free -h >> /opt/290724-ptm/Habelko_Vladyslav/.process_mangement 
+  425  nano /opt/290724-ptm/Habelko_Vladyslav/.process_mangement 
+  426  free -h | grep -i 'total'
+  427  free -h | grep -i 'total memory'
+  428  free -h
+  429  free -h | grep Mem | awk '{print $2}'
+  430  free -h | grep Mem
+  431  free -h | grep Mem | awk '{print $2}'
+  432  free -h | grep Mem
+  433  free -h | head -2
+  434  free -h | head -2 | grep Mem
+  435  free -h | head -3 | grep Mem
+  436  free -h | head -3 
+  437  free -h | head -2 | awk '{print $2}'
+  438  free -h | head - | awk '{print $2}'
+  439  free -h | head -1 | awk '{print $2}'
+  440  free -h | head -3 | awk '{print $2}'
+  441  free -h | head -3 | awk '{print $3}'
+  442  free -h | head -3 | awk '{print $1}'
+  443  free -h | head -3 | awk '{print $2}'
+  444  free -h | grep Total | awk '{print $2}'
+  445  free
+  446  free -h | grep total
+  447  free -h | grep total | head -2
+  448  free -h | grep total | head -3
+  449  free -h | grep total | tile -3
+  450  free -h | grep total | head -2
+  451  free -h | grep 97 | head -2
+  452  free -h | grep -97 | head -2
+  453  free
+  454  free -h
+  455  awk '{print $2 / 1024 " MB"}'
+  456  free -h
+  457  free -h | awk '{print $2}'
+  458  free -h | awk '{print $1}'
+  459  free -h | awk '{print $2}'
+  460  df -h | awk '{print $5}'
+  461  free -h | awk '{print $2}'
+  462  free -h | awk '{print $2}' | grep total
+  463  free -h | grep total
+  464  free -h | awk '{print $0}'
+  465  free -h | awk '{print $1}' >> 
+  466  free -h | awk '{print $2}'
+  467  free -h | awk '{print $-2}'
+  468  ps aux | awk '{print $11}'
+  469  free -h | grep Mem
+  470  command | awk '$2 != "" {print $2}'
+  471  free -h | awk '$2 != "" {print $2}'
+  472  free
+  473  free -h | awk '$2 != "" {print $2}'
+  474  free -h | awk '$2 != "" {print $1}'
+  475  vmstat
+  476  vmstat | awk '{print $-2}'
+  477  vmstat | awk '{print $2}'
+  478  top
+  479  cd /opt/290724-ptm
+  480  ls -l
+  481  pwd
+  482  cd /opt/290724-ptm/
+  483  ls
+  484  mkdir /opt/290724-ptm/chumak
+  485  cd
+  486  cat /var/spool/mail/ec2-user
+  487  cat /var/spool/mail/ec2-user | wc -l
+  488  cat /var/spool/mail/root
+  489  sudo cat /var/spool/mail/root
+  490  ls -l
+  491  ls -l /bin
+  492  cd /opt/290724-ptm/
+  493  ls -l
+  494  > ivan.txt
+  495  ls -l
+  496  chmod ugo-r ivan.txt 
+  497  cat ivan.txt 
+  498  ls -l
+  499  nano ivan.txt 
+  500  chmod ugo-rwx 
+  501  chmod ugo-rwx ivan.txt 
+  502  ls -l
+  503  chmod ugo+rwx ivan.txt 
+  504  ls -l
+  505  chmod o-rwx ivan.txt 
+  506  ls -l
+  507  chmod u-x,g-rw,o+r ivan.txt 
+  508  ls -l
+  509  chmod ugo-rwx ivan.txt 
+  510  ls -l
+  511  chmod ugo+rwx ivan.txt 
+  512  ls -l
+  513  chmod u-x chumak/
+  514  ls -l
+  515  cd chumak/
+  516  chmod u+x chumak/
+  517  chmod o-x chumak/
+  518  cd chumak/
+  519  ls
+  520  echo "123" > chumak.txt
+  521  ls
+  522  pwd
+  523  cd ..
+  524  ls
+  525  cd /var/spool/23_08/
+  526  ls
+  527  cd
+  528  ls
+  529  ls -ld file.txt 
+  530  ls -d file.txt 
+  531  ls -ld /tmp
+  532  cd /opt/290724-ptm/
+  533  ls
+  534  cd chumak/
+  535  ls
+  536  cd ..
+  537  ls -ld
+  538  chmod ugo+rwx chumak/
+  539  cd chumak/
+  540  ls
+  541  ls -l
+  542  chmod u+x 
+  543  chmod u+x chumak.txt 
+  544  ls -l
+  545  chmod ugo-rwx chumak.txt 
+  546  ls -l
+  547  chmod ugo+rwx chumak.txt 
+  548  ls -l
+  549  cd ..
+  550  ls -l
+  551  chmod u-rwx chumak/
+  552  ls -l
+  553  chmod -R u+rwx chumak/
+  554  ls -l
+  555  chmod 000 chumak/
+  556  cd chumak/
+  557  chmod 744 chumak/
+  558  ls -l
+  559  cd chumak/
+  560  ls -l
+  561  chmod 744 chumak.txt 
+  562  ls -l
+  563  chmod 4 chumak.txt 
+  564  ls -l
+  565  chmod 44 chumak.txt 
+  566  ls -l
+  567  chmod 0 chumak.txt 
+  568  chmod 744 chumak.txt 
+  569  ls -l
+  570  chmod 777 chumak.txt 
+  571  chmod 644 chumak.txt 
+  572  ls -l
+  573  cd /
+  574  ls -ld
+  575  cd tmp/
+  576  ls -ld
+  577  cd /opt/290724-ptm/
+  578  chmod +t chumak/
+  579  ls -l
+  580  chmod -t chumak/
+  581  chmod -R 777 chumak/
+  582  cd chumak/
+  583  ls -l
+  584  nano script.sh
+  585  ls -l
+  586  chmod u+x script.sh 
+  587  ls -l
+  588  cat script.sh 
+  589  ./script.sh 
+  590  cd
+  591  ./script.sh
+  592  /opt/290724-ptm/chumak/script.sh 
+  593  env
+  594  cp /opt/290724-ptm/chumak/script.sh /usr/local/bin/ivan
+  595  sudo cp /opt/290724-ptm/chumak/script.sh /usr/local/bin/ivan
+  596  ivan
+  597  sudo ivan
+  598  chmod -R 777 /usr/
+  599  ivan
+  600  env
+  601  cp /opt/290724-ptm/chumak/script.sh /home/ec2-user/bin/ivan
+  602  ivan
+  603  rm /usr/local/bin/ivan 
+  604  sudo rm /usr/local/bin/ivan 
+  605  ivan
+  606  cp /opt/290724-ptm/chumak/script.sh /home/ec2-user/bin/ivan
+  607  ivan
+  608  exit
+  609  cd /opt/290724-ptm/A
+  610  cd /opt/290724-ptm/AndreyLapko/
+  611  ls -ld
+  612  pwd
+  613  nano script.sh
+  614  chmod u+x script.sh 
+  615  cat script.sh 
+  616  ls -l
+  617  cat script.sh 
+  618  ./script.sh 
+  619  sudo cp script.sh /usr/local/bin/Andrey
+  620  Andrey
+  621  sudo Andrey
+  622  Andrey
+  623  env
+  624  cp script.sh /home/ec2-user/bin/Andrey
+  625  rm /usr/local/bin/Andrey
+  626  sudo rm /usr/local/bin/Andrey
+  627  Andrey
+  628  exit
+  629  exit
+  630  cd /opt/290724-ptm/Kirill_Maiorov/
+  631  nano script.sh
+  632  ls -lah
+  633  chmod 764 script.sh 
+  634  ls -lah
+  635  ./script.sh 
+  636  nano script.sh
+  637  ./script.sh 
+  638  nano script.sh
+  639  exit
+  640  cd /opt/290724-ptm/
+  641  ls
+  642  cd Roman_Borenko/
+  643  ls -ld
+  644  cd ..
+  645  ls
+  646  cd chumak/
+  647  ls
+  648  ./
+  649  ./script.sh 
+  650  cd //
+  651  cd ..
+  652  ls
+  653  cd Roman_Borenko/
+  654  cd /opt/290724-ptm/
+  655  ls -a
+  656  cd Roman_Borenko/
+  657  ls
+  658  nano roman.txt
+  659  ./
+  660  la -la
+  661  ls
+  662  la -l /opt/Roman_Borenko
+  663  ls
+  664  nano roman.txt 
+  665  cd ..
+  666  ls
+  667  chmod 744 Roman_Borenko/
+  668  chmod -p 744 Roman_Borenko/
+  669  cd Roman_Borenko/
+  670  ls
+  671  ls -la
+  672  chmod 777 roman.txt 
+  673  ls
+  674  ./
+  675  cd ..
+  676  Roman_Borenko/roman.txt 
+  677  ls
+  678  ls Roman_Borenko/
+  679  exit
+  680  /opt/290724-ptm/innaya
+  681  cd /opt/290724-ptm/innaya
+  682  ls
+  683  date +%D >> file.txt
+  684  nano
+  685  ls -l /opt
+  686  cd
+  687  /opt/innaya
+  688  cd /opt/290724-ptm/innaya
+  689  ls -l
+  690  cat file.txt
+  691  cd
+  692  Andrey
+  693  ivan
+  694  nano /home/ec2-user/bin/Andrey
+  695  Andrey
+  696  ls /opt/Andrey
+  697  nano file.txt
+  698  nano Afile.txt
+  699  df - h | head -3
+  700  df -h | head -3
+  701  df -h | head -3 >> /tmp/Afile.txt
+  702  chmod 730 /tmp/Afile.txt 
+  703  ls -ld /tmp/Afile.txt 
+  704  nano /tmp/myfirstbashscript.sh
+  705  chmod u+x /tmp/myfirstbashscript.sh
+  706  chmod u+x /tmp//myfirstbashscript.sh
+  707  ls /tmp
+  708  touch /tmp/myfirstbashscript.sh
+  709  ls /tmp
+  710  chmod u+x /tmp//myfirstbashscript.sh
+  711  ls /tmp
+  712  export USER=Andrey
+  713  env
+  714  nano /tmp/myfirstbashscript.sh 
+  715  /tmp/myfirstbashscript.sh 
+  716  cat /tmp/myfirstbashscript.sh >> /tmp/Afile.txt 
+  717  cat /tmp/Afile.txt 
+  718  history >> /tmp/Afile.txt 
+  719  exit
+  720  ps aux | sed 1d | awk '{print $11}'
+  721  free -h
+  722  free -h | grep total
+  723  free -h | grep total| head -2
+  724  free -h | grep total| head -3
+  725  free -h | grep total| head +2
+  726  free -h | grep total| head -3
+  727  free -h |head -2 | r
+  728  free -h |head -2 | wed
+  729  free -h | head -2 | e
+  730  free =h
+  731  free -h
+  732  free -h | head -2
+  733  free -h | head -2|  w
+  734  free -h | head -2|  awk '{print $2}'
+  735  free -h | awk '{print $2}'
+  736  free -h | awk '{print $2}' >> /opt/290724-ptm/Habelko_Vladyslav/.process_mangement 
+  737  ps aux | grep "^root" | wc -l
+  738  ps aux | grep "^root" 
+  739  ps aux | grep "^root" | wc -l >> /opt/290724-ptm/Habelko_Vladyslav/.process_mangement 
+  740  Допишите информацию об объявленных переменных, но отфильтруйте так, чтобы осталась только Ваша переменная из пункта 2 (В примере ANDREW_VARIABLE)
+  741  env Vlad_Varible
+  742  echo $Vladyslav_VARIABLE
+  743  export Vladyslav_VARIABLE="290724"
+  744  echo $Vladyslav_VARIABLE 
+  745  env Vladyslav_VARIABLE
+  746  env | grep Vladyslav_VARIABLE
+  747  env Vladyslav_VARIABLE
+  748  env | grep Vladyslav_VARIABLE >> /opt/290724-ptm/Habelko_Vladyslav/.process_mangement 
+  749  ps -C sshd -o pid=,ppid=,cmd= | grep "/usr/sbin/sshd -D" | awk '{print "PID "$1" PPID "$2}'
+  750  ps -C sshd -o pid=,ppid=,cmd= | grep "/usr/sbin/sshd -D" | awk '{print "PID "$1" PPID "$2}' >> /opt/290724-ptm/Habelko_Vladyslav/.process_mangement 
+  751  nano /opt/290724-ptm/Habelko_Vladyslav/.process_mangement 
+  752  cd /opt/290724-ptm/Habelko_Vladyslav/
+  753  ls -al
+  754  cd ..
+  755  cd /Mutaf/
+  756  cd /Mutaf
+  757  Mutaf/
+  758  cd /Mutaf/
+  759  cd /
+  760  ls -al /opt/290724-ptm/Mutaf/
+  761  cat /opt/290724-ptm/Mutaf/.process_management 
+  762  cat /opt/290724-ptm/Habelko_Vladyslav/.process_management 
+  763  cat /opt/290724-ptm/Habelko_Vladyslav/.process_mangement 
+  764  nano /opt/290724-ptm/Habelko_Vladyslav/.process_mangement 
+  765  cat /opt/290724-ptm/Habelko_Vladyslav/.process_management 
+  766  cat /opt/290724-ptm/Mutaf/.process_management 
+  767  cat /opt/290724-ptm/Habelko_Vladyslav/.process_mangement 
+  768  nano /opt/290724-ptm/Habelko_Vladyslav/.process_mangement 
+  769  ls
+  770  cd /ELENA
+  771  /290724/ELENA
+  772  clear
+  773  cd /opt/290724-ptm/ELENA/
+  774  ls -l
+  775  ..
+  776  cd /opt/290724-ptm/
+  777  ls -l
+  778  cd /opt/100624-wdm/Olga
+  779  touch sleeper.sh
+  780  ls
+  781  nano sleeper.sh 
+  782  chmod +x sleeper.sh 
+  783  ls
+  784  ./sleeper.sh 
+  785  ls
+  786  cat cpuinfo.txt 
+  787  cat os_info.txt 
+  788  cat os-name.txt
+  789  ls
+  790  cat os-name.txt
+  791  os_name.txt
+  792  cat os_info.txt 
+  793  cat os_name.txt 
+  794  ivan
+  795  env
+  796  nano /home/ec2-user/bin/ivan
+  797  ivan
+  798  ls -l /opt/
+  799  ls -lR /opt/
+  800  ls -l /opt/chumak/
+  801  nano /home/ec2-user/bin/ivan
+  802  ivan
+  803  nano /home/ec2-user/bin/ivan
+  804  ivan
+  805  cat /home/ec2-user/bin/ivan
+  806  exit
+  807  ls -l /tmp
+  808  cat file_elena.txt
+  809  cat /tmp/file_elena.txt 
+  810  scp -i ec2-user@linux.itcareerhub.de:/tmp/file_elena.txt C:\Users\49333\OneDrice\Desktop
+  811  scp -i ec2-user@linux.itcareerhub.de:/tmp/file_elena.txt C:\Users\49333\OneDrive\Desktop
+  812  scp ec2-user@linux.itcareerhub.de:/tmp/file_elena.txt C:\Users\49333\OneDrive\Desktop
+  813  sudo scp ec2-user@linux.itcareerhub.de:/tmp/file_elena.txt C:\Users\49333\OneDrive\Desktop
+  814  exit
+  815  df
+  816  df | grep "xvda1"
+  817  df | grep "xvda1" |awk '{print $5}'
+  818  df | grep "xvda1" | awk '{print $5}' | sed 's/%//'
+  819  cd /opt/100624-wdm/Yanitska/
+  820  ls
+  821  chmod +x script_disk_usage.sh 
+  822  ./script_disk_usage.sh 
+  823  do /
+  824  du /
+  825  du -sh /
+  826  du -sh / |sort -rh
+  827  du -sh / |sort -rh | head -n 10
+  828  du -sh / | sort -h | head -n 10
+  829  reset
+  830  du -sh / | sort -h | head -n 10
+  831  du -sh / | sort -rh | head -n 10
+  832  du -ah / | sort -rh | head -n 10
+  833  ./script_disk_usage.sh 
+  834  cd /opt/100624-wdm/Yanitska/
+  835  vim script_disk_usage.sh
+  836  du -sh /*
+  837  du -ah /*
+  838  cd /opt/290724-ptm/
+  839  ls -l
+  840  cd Mutaf/
+  841  ls -l
+  842  ls
+  843  > text.txt
+  844  ls -l
+  845  chmod 000 text.txt 
+  846  ls -l
+  847  chmod 744 text.txt 
+  848  ls -l
+  849  chmod 644 text.txt 
+  850  ls -la
+  851  chmod 644 .process_management 
+  852  cd ..
+  853  ls
+  854  chmod +t Mutaf/
+  855  ls -l
+  856  chmod -t Mutaf/
+  857  ls -l
+  858  chmod -R 777 Mutaf/
+  859  cd Mutaf/
+  860  ls -l
+  861  nano script.ch
+  862  ls -l
+  863  cat text.txt
+  864  chmod 744 script.ch 
+  865  chmod 644 text.txt 
+  866  ls -l
+  867  cat script.ch 
+  868  ./script.ch 
+  869  cd /
+  870  cd
+  871  /opt/290724-ptm/Mutaf/script.ch 
+  872  env
+  873  sudo cp /opt/290724-ptm/Mutaf/script.ch /usr/local/bin/mutaf
+  874  mutaf
+  875  sudo mutaf
+  876  sudo cp /opt/290724-ptm/Mutaf/script.ch /usr/local/bin/mutaf/home/ec2-user/bin
+  877  sudo cp /opt/290724-ptm/Mutaf/script.ch /home/ec2-user/bin/mutaf
+  878  mutaf
+  879  sudo rm /usr/local/bin/mutaf
+  880  mutaf
+  881  exit
+  882  mutaf
+  883  cd /home/ec2-user/bin/
+  884  ls -l
+  885  ivan
+  886  mutaf
+  887  env
+  888  cd /usr/local/bin
+  889  ls -l
+  890  ls -la
+  891  sudo ls -l
+  892  exit 
+  893  mutaf
+  894  env
+  895  cd /home/ec2-user/bin
+  896  ls -l
+  897  cd /usr/local/bin
+  898  ls -l
+  899  ls -l /usr/local/sbin:/usr/sbin
+  900  ls -l /usr/local/sbin
+  901  mutaf
+  902  cd /opt/290724-ptm/Mutaf/
+  903  ls -l
+  904  nano script.ch 
+  905  ./script.ch 
+  906  cd /opt/
+  907  ls -l
+  908  cd Mutaf/
+  909  ls -l
+  910  cd test/
+  911  ls -l
+  912  rm -r /opt/Mutaf/
+  913  ls -l /opt/
+  914  cd /opt/290724-ptm/Mutaf/
+  915  ls -l
+  916  nano script.ch 
+  917  dh -h
+  918  df -h
+  919  pwd
+  920  > myfirstbashscript.sh
+  921  nano myfirstbashscript.sh 
+  922  cat myfirstbashscript.sh 
+  923  ls -l
+  924  chmod 744 myfirstbashscript.sh 
+  925  ./myfirstbashscript.sh 
+  926  pwd
+  927  nano myfirstbashscript.sh 
+  928  data >> /opt/290724-ptm/Mutaf/histori.txt 
+  929  nano myfirstbashscript.sh 
+  930  ./myfirstbashscript.sh 
+  931  ls -l
+  932  cat histori.txt 
+  933  nano myfirstbashscript.sh 
+  934  rm /opt/290724-ptm/Mutaf/histori.txt 
+  935  ./myfirstbashscript.sh 
+  936  cat history.txt
+  937  nano history.txt 
+  938  nano myfirstbashscript.sh 
+  939  ls
+  940  rm /opt/290724-ptm/Mutaf/histori.txt 
+  941  ls
+  942  rm /opt/290724-ptm/Mutaf/history.txt 
+  943  ls
+  944  ./myfirstbashscript.sh 
+  945  cat history.txt 
+  946  cd /opt/100624-wdm/Halyna/
+  947  nano sleeper.sh
+  948  chmod +x sleeper.sh
+  949  ls
+  950  cat /proc/cpuinfo > /opt/100624-wdm/Halyna/cpuinfo.txt
+  951  cd /opt/100624-wdm/Halyna/
+  952  ls
+  953  cat /etc/os-release | grep '^NAME=' > /opt/100624-wdm/Halyna/osinfo_full.txt
+  954  cat /etc/os-release | grep '^NAME=' | awk -F'=' '{print $2}' | tr -d '"' > /opt/100624-wdm/Halyna/osinfo_name.txt
+  955  cat /etc/os-release | grep '^NAME=' | awk -F'=' '{print $2}' | tr -d '"'
+  956  for i in $(seq 50 100); do     touch /opt/100624-wdm/Halyna/$i.txt; done
+  957  for i in $(seq 50 100); do     touch /opt/100624-wdm/Halyna/$i.txt; done
+  958  ls
+  959  cd /opt/100624-wdm/Halyna/
+  960  ps -ef | grep sleeper.sh
+  961  cd
+  962  chmod +x /opt/100624-wdm/Halyna/sleeper.sh
+  963  cd /opt/100624-wdm/Halyna/
+  964  ls
+  965  vim sleeper.sh
+  966  cd /opt/100624-wdm/Halyna/
+  967  bash -x sleeper.sh
+  968  export sleeper.sh
+  969  cd /opt/100624-wdm/Halyna/
+  970  ls
+  971  cd opt
+  972  ls
+  973  ls -la
+  974  cd ..
+  975  ls
+  976  cd /
+  977  ls
+  978  cd opt
+  979  ls
+  980  cd 100624-wdm
+  981  ls
+  982  cd Volodymyr/
+  983  ls -la
+  984  touch sleeper.sh
+  985  chmod +x sleeper.sh 
+  986  vim sleeper.sh 
+  987  ./sleeper.sh 
+  988  vim sleeper.sh 
+  989  ./sleeper.sh 
+  990  vim sleeper.sh 
+  991  ./sleeper.sh 
+  992  ls
+  993  vim sleeper.sh 
+  994  ./sleeper.sh 
+  995  vim sleeper.sh 
+  996  ./sleeper.sh 
+  997  vim sleeper.sh 
+  998  ls
+  999  exit
+ 1000  nano /tmp/file.txt
+ 1001  df -h | head -3 > /tmp/file.txt 
+ 1002  chmod 030 /tmp/file.txt 
+ 1003  ls -lah /tmp/
+ 1004  touch /opt/290724-ptm/Kirill_Maiorov/myfirstbashscript.sh
+ 1005  chmod +x /opt/290724-ptm/Kirill_Maiorov/myfirstbashscript.sh
+ 1006  nano /opt/290724-ptm/Kirill_Maiorov/myfirstbashscript.sh
+ 1007  /opt/290724-ptm/Kirill_Maiorov/myfirstbashscript.sh
+ 1008  nano /opt/290724-ptm/Kirill_Maiorov/myfirstbashscript.sh
+ 1009  /opt/290724-ptm/Kirill_Maiorov/myfirstbashscript.sh
+ 1010  cat /opt/290724-ptm/Kirill_Maiorov/myfirstbashscript.sh >> /tmp/file.txt 
+ 1011  sudo cat /opt/290724-ptm/Kirill_Maiorov/myfirstbashscript.sh >> /tmp/file.txt 
+ 1012  chmod 530 /tmp/file.txt 
+ 1013  cat /opt/290724-ptm/Kirill_Maiorov/myfirstbashscript.sh >> /tmp/file.txt 
+ 1014  ls -lah /tmp/
+ 1015  chmod 630 /tmp/file.txt 
+ 1016  cat /opt/290724-ptm/Kirill_Maiorov/myfirstbashscript.sh >> /tmp/file.txt 
+ 1017  history >> /tmp/file.txt

@@ -1,0 +1,10 @@
+   0 cd ~ && mkdir animals
+   1 mkdir animals/dogs animals/cats animals/fish
+   2 touch animals/dogs/pluto animals/cats/garfield animals/fish/nemo
+   3 touch /tmp/adam
+   4 mkdir ~/humans && cp /tmp/adam ~/humans/
+   5 touch /tmp/evA
+   6 mv /tmp/evA /opt/eve
+   7 mv /opt/eve ~/humans/
+   8 ls -lah ~/humans/
+   9 history > /tmp/history.txt && export_file /tmp/history.txt

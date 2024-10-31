@@ -1,2 +1,3 @@
-# ich_ptm
-ICH Python morning course
+![ICH_logo.svg](linux_and_git/hw8/ICH_logo.svg)
+### ICH Python morning course
+Репозиторий объединяет все домашние задания, интересные примеры из практических работ, файлы и заметки которые я посчитал полезный
