@@ -28,6 +28,7 @@
 ```console
  cp /reserv_files/LocalSettings_reserv.php  /var/www/html/mediawiki/LocalSettings.php
 ```
+2024-10-28 09:52 Выявленно несоответствие адресса ресурса в переменной $wgServer в резервном файле LocalSettings.php. Требуемый адресс: http://3.73.44.38, в файле был указан: https://18.153.51.162
 
 2024-10-28 09:58 Найдены аномально большие файлы логов
 ```console
