@@ -1,3 +1,5 @@
 .idea
 .env
 cw.*
+cw
+auto_qa/*/*_screenshot.png
