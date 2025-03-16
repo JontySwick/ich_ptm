@@ -6,6 +6,8 @@ from actions.back_action import BackAction
 from actions.callback_action import CallbackAction
 from actions.exit_action import ExitAction
 from controllers.main_controller import MainController
+from db.read_connection import ReadConnection
+from db.write_connection import WriteConnection
 
 dotenv.load_dotenv(Path('.env'))
 
@@ -28,8 +30,14 @@ while True:
             user_action_index = int(input('Enter action number: '))
 
             if user_action_index > 0:
+                ReadConnection().connect()
+                WriteConnection().connect()
+
                 action = actions[user_action_index - 1]
                 actions = action.do_action()
+
+                ReadConnection().close()
+                WriteConnection().close()
 
                 if type(action) is not BackAction:
                     breadcrumbs.append(last_action)
